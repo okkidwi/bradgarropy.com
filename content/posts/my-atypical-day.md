@@ -2,9 +2,7 @@
 title: ⏰ my atypical day
 slug: my-atypical-day
 date: "2021-01-23"
-topic:
-    name: life
-    icon: 😎
+topic: life
 ---
 
 Lately folks like [Chris Coyier][chris-coyier], [Dan Mall][dan-mall], and [Dave Rupert][dave-rupert] have been sharing what their typical day looks like. I figured I'd do the same, although this is not my typical day. With the pandemic and my [torn achilles][achilles], things are a bit different for me. But here it is nonethless.
@@ -46,7 +44,7 @@ Usually I work out from **`7:00PM`** to **`8:30PM`** and then start the rest of 
 _I'd like to see what a typical day looks like for [James Quick][james-quick] and [Brian Morrison][brian-morrison]._
 
 [github]: https://github.com/bradgarropy
-[website]: /blog
+[website]: https://bradgarropy.com/blog
 [twitch]: https://twitch.tv/bradgarropy
 [youtube]: https://youtube.com/bradgarropy
 [thps]: https://www.tonyhawkthegame.com

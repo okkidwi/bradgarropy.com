@@ -2,9 +2,7 @@
 title: 🦆 migrating to next.js
 slug: migrating-to-nextjs
 date: "2022-02-08"
-topic:
-    name: coding
-    icon: 💻
+topic: coding
 ---
 
 I've attempted to migrate this site from [Gatsby][gatsby] to [Next.js][next] three times now, and have always called it quits for [one reason or another][gatsby-vs-nextjs]. Some reasons were backed by data, others were just a gut feeling. At the end of the day, on the fourth attempt, I decided to stop sitting on the fence, and merged the `nextjs` branch into `master`.
@@ -106,7 +104,7 @@ Like I said at the beginning, this migration is a tradeoff, but I think I'm maki
 
 [gatsby]: https://gatsbyjs.com
 [next]: https://nextjs.org
-[gatsby-vs-nextjs]: /blog/gatsby-vs-nextjs-markdown-blog
+[gatsby-vs-nextjs]: https://bradgarropy.com/blog/gatsby-vs-nextjs-markdown-blog
 [crutchcorn]: https://twitter.com/crutchcorn
 [unicorn-utterances]: https://unicorn-utterances.com
 [pr]: https://github.com/bradgarropy/bradgarropy.com/pull/265
@@ -114,7 +112,7 @@ Like I said at the beginning, this migration is a tradeoff, but I think I'm maki
 [typescript]: https://typescriptlang.org
 [diff]: /images/posts/pr-diff.png
 [sentry]: https://sentry.io
-[saas]: /blog/goals-for-2022#products
+[saas]: https://bradgarropy.com/blog/goals-for-2022#products
 [repo]: https://github.com/bradgarropy/bradgarropy.com
 [use-markdown]: https://github.com/bradgarropy/bradgarropy.com/blob/master/src/hooks/useMarkdown/useMarkdown.tsx
 [transform-markdown]: https://github.com/bradgarropy/bradgarropy.com/blob/master/src/utils/markdown.ts#L36

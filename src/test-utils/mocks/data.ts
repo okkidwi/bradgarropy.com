@@ -1,7 +1,6 @@
 import {Markdown} from "types/markdown"
 import {Meta} from "types/meta"
 import {Now, NowFrontmatter} from "types/now"
-import {Podcast} from "types/podcast"
 import {Post, PostFrontmatter, Topic} from "types/post"
 import {Project} from "types/project"
 import {Sponsors} from "types/sponsor"
@@ -15,10 +14,7 @@ const mockPosts: Post[] = [
             date: "2021-01-01",
             slug: "first-test-post",
             title: "first test post",
-            topic: {
-                icon: "😎",
-                name: "life",
-            },
+            topic: "life",
         },
     },
     {
@@ -27,10 +23,7 @@ const mockPosts: Post[] = [
             date: "2021-02-01",
             slug: "second-test-post",
             title: "second test post",
-            topic: {
-                icon: "🔌",
-                name: "tech",
-            },
+            topic: "tech",
         },
     },
     {
@@ -39,10 +32,7 @@ const mockPosts: Post[] = [
             date: "2021-03-01",
             slug: "third-test-post",
             title: "third test post",
-            topic: {
-                icon: "💻",
-                name: "coding",
-            },
+            topic: "coding",
         },
     },
     {
@@ -51,10 +41,7 @@ const mockPosts: Post[] = [
             date: "2021-03-01",
             slug: "fourth-test-post",
             title: "fourth test post",
-            topic: {
-                icon: "💻",
-                name: "coding",
-            },
+            topic: "coding",
         },
     },
 ]
@@ -193,13 +180,6 @@ const mockProjects: Project[] = [
         ],
     },
 ]
-
-const mockPodcast: Podcast = {
-    title: "Test Podcast",
-    link: "https://anchor.fm/test-podcast",
-    image: "https://anchor.fm/test-podcast.jpg",
-    episodes: [],
-}
 
 const mockSponsors: Sponsors = {
     "monthly": [
@@ -346,7 +326,6 @@ export {
     mockNows,
     mockNowsFrontmatter,
     mockOlderNow,
-    mockPodcast,
     mockPost,
     mockPostFrontmatter,
     mockPosts,

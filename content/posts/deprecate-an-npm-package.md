@@ -2,9 +2,7 @@
 title: 🔴 deprecate an npm package
 slug: deprecate-an-npm-package
 date: "2020-12-15"
-topic:
-    name: coding
-    icon: 💻
+topic: coding
 ---
 
 I recently restructured my [eslint configuration][eslint-config], which left my [original configuration][eslint-config-bradgarropy] completely unused. So in order to avoid confusion, I decided to [deprecate][blog] the old package. Here's how I did it.
@@ -67,6 +65,6 @@ _Have you ever deprecated an `npm` package? If so, let me know your process on [
 [blog]: https://docs.npmjs.com/deprecating-and-undeprecating-packages-or-package-versions
 [eslint-config-bradgarropy]: https://github.com/bradgarropy/eslint-config-bradgarropy
 [eslint-config]: https://github.com/bradgarropy/eslint-config
-[archive]: /images/archive.png
-[readme]: /images/readme.png
-[deprecated]: /images/deprecated.png
+[archive]: /images/posts/archive.png
+[readme]: /images/posts/readme.png
+[deprecated]: /images/posts/deprecated.png

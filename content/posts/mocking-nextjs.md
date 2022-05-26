@@ -2,9 +2,7 @@
 title: 😜 mocking next.js
 slug: mocking-nextjs
 date: "2021-06-28"
-topic:
-    name: coding
-    icon: 💻
+topic: coding
 ---
 
 Previously I covered how to mock [gatsby][mock-gatsby] and [gatsby image][mock-gatsby-image] in `jest` tests. Lately I've been using [Next.js][next] for new projects, and with that I've had to reimplement a few things that I had built specifically for [Gatsby][gatsby]. For instance, I'll have to create new versions of my [gatsby-plugin-seo][gatsby-plugin-seo] and [gatsby-link][gatsby-link] packages for Next.js.
@@ -38,8 +36,8 @@ jest.mock(
 
 If you find these mocks useful, let me know and I can publish them as an `npm` package. What kind of mocks do you use when testing [Next.js][next]? Let me know on [Twitter][twitter]!
 
-[mock-gatsby]: /blog/mocking-gatsby
-[mock-gatsby-image]: /blog/mocking-gatsby-image
+[mock-gatsby]: https://bradgarropy.com/blog/mocking-gatsby
+[mock-gatsby-image]: https://bradgarropy.com/blog/mocking-gatsby-image
 [next]: https://nextjs.org
 [gatsby]: https://gatsbyjs.com
 [gatsby-plugin-seo]: https://github.com/bradgarropy/gatsby-plugin-seo

@@ -2,9 +2,7 @@
 title: 📅 2020 in review
 slug: 2020-in-review
 date: "2020-12-16"
-topic:
-    name: life
-    icon: 😎
+topic: life
 ---
 
 It's that time of year again! Time to reflect on the past year and see how I measured up to my goals. This is the second year I've posted my [resolutions][resolutions], and I feel it really helps me stay on track throughout the year. Let's see how I did.
@@ -69,4 +67,4 @@ _Share them with me on [Twitter][twitter]!_
 [dtxc-youtube]: https://dailytexascountry.com/youtube
 [dtxc-instagram]: https://dailytexascountry.com/instagram
 [dtxc-facebook]: https://dailytexascountry.com/facebook
-[resolutions]: /blog/goals-for-2020
+[resolutions]: https://bradgarropy.com/blog/goals-for-2020

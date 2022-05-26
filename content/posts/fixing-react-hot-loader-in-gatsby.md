@@ -2,9 +2,7 @@
 title: 🔥 fixing react-hot-loader in gatsby
 slug: fixing-react-hot-loader-in-gatsby
 date: "2020-11-10"
-topic:
-    name: coding
-    icon: 💻
+topic: coding
 ---
 
 Have you ever cloned a fresh copy of [Gatsby][gatsby], installed the dependencies, and booted up the development server only to be greeted by this ugly warning in your console?
@@ -38,5 +36,5 @@ And that's it, no more annoying error message! Hopefully one day Gatsby will ado
 [refresh]: https://github.com/facebook/react/tree/master/packages/react-refresh
 [react]: https://reactjs.org
 [hot-loader]: https://github.com/gaearon/react-hot-loader
-[warning]: /images/warning.png
+[warning]: /images/posts/warning.png
 [gatsby]: http://gatsbyjs.com

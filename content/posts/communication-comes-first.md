@@ -2,9 +2,7 @@
 title: 🥇 communication comes first
 slug: communication-comes-first
 date: "2020-12-08"
-topic:
-    name: life
-    icon: 😎
+topic: life
 ---
 
 During the process of marketing the [curly bois][curly-bois] shirts, I released the following tweet which got a lot of engagement. Most feedback was positive, but a few creators and community members offered their feedback.
@@ -30,7 +28,7 @@ At the end of the day, like [Jason][jason-lengstorf] says, "_the real 10x develo
 
 [mit]: https://choosealicense.com/licenses/mit
 [twitter]: https://twitter.com/bradgarropy
-[previous]: /blog/curly-bois-shirts
+[previous]: https://bradgarropy.com/blog/curly-bois-shirts
 [wes-bos]: https://twitter.com/wesbos
 [jason-lengstorf]: https://twitter.com/jlengstorf
 [ahmad-awais]: https://twitter.com/MrAhmadAwais

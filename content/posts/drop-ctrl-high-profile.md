@@ -2,9 +2,7 @@
 title: ⌨️ drop ctrl high profile
 slug: drop-ctrl-high-profile
 date: "2021-01-22"
-topic:
-    name: tech
-    icon: 🔌
+topic: tech
 ---
 
 I've been using a [Razer Black Widow][black-widow] keyboard for the past nine years. At this point it's like an extension of my hands. But as the rest of my setup has matured, I wanted to replace my gaming keyboard with something more professional. So for Christmas I picked up a [Drop CTRL High Profile][ctrl] mechanical keyboard.
@@ -41,4 +39,4 @@ _You can find this keyboard and all my other gear on the [uses][uses] page._
 [black-widow]: https://www.razer.com/gaming-keyboards/Razer-BlackWidow/RZ03-02860100-R3M1
 [ctrl]: https://drop.com/buy/drop-ctrl-high-profile-mechanical-keyboard
 [keycaps]: https://drop.com/buy/drop-mito-gmk-pixel-custom-keycap-set
-[uses]: /uses
+[uses]: https://bradgarropy.com/uses

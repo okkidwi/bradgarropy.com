@@ -2,9 +2,7 @@
 title: 🏆 goals for 2022
 slug: goals-for-2022
 date: "2021-12-30"
-topic:
-    name: life
-    icon: 😎
+topic: life
 ---
 
 I spent the [past year][2021] focusing on my foundations. In 2022 I'm ready to take on new larger projects with the aim of creating a real source of side income for myself. I've set the following goals to help me accomplish that.
@@ -71,7 +69,7 @@ I won't be able to get any of my goals accomplished if I can't stay organized an
 
 So stay tuned to see how I progress towards each one of these goals in 2022. Now I'd like to know what your goals are for the New Year! Share them with me on [Twitter][twitter]!
 
-[2021]: /blog/goals-for-2021
+[2021]: https://bradgarropy.com/blog/goals-for-2021
 [twitter]: https://twitter.com/bradgarropy
 [youtube]: https://youtube.com/bradgarropy
 [twitch]: https://twitch.tv/bradgarropy

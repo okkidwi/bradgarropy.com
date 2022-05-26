@@ -2,9 +2,7 @@
 title: 🌑 gatsby dark mode
 slug: gatsby-dark-mode
 date: "2021-04-30"
-topic:
-    name: coding
-    icon: 💻
+topic: coding
 ---
 
 You're not one of the cool kids nowadays if you don't have a dark mode on your site. So I figured it was time to join the club and get this implemented. My previous work [converting styled component variables to css custom properties][sc-to-cv] laid the groundwork for this feature.
@@ -102,7 +100,7 @@ While this dark modes works very well, and persists through page navigation, it'
 
 **Give dark mode a try, [click the moon][moon] at the top of the page!**
 
-[sc-to-cv]: /blog/from-styled-components-to-css-variables
+[sc-to-cv]: https://bradgarropy.com/blog/from-styled-components-to-css-variables
 [josh-comeau]: https://twitter.com/joshwcomeau
 [perfect-dark-mode]: https://www.joshwcomeau.com/react/dark-mode
 [pull-request]: https://github.com/bradgarropy/bradgarropy.com/pull/205/files
